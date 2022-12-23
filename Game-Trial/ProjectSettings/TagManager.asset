@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - RedCylinder
+  - GreenCylinder
+  - RedBox
+  - GreenBox
+  - Red
+  - Green
+  - black
   layers:
   - Default
   - TransparentFX
